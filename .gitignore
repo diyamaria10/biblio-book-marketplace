@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+db.php
+uploads/*
+!uploads/.gitkeep
+
+test_upload.php
+testttt.php
+user-dashboard-test.html
